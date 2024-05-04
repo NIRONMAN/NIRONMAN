@@ -14,7 +14,8 @@ Hi there! I'm Niranjan Gopinath Dabhade, a student based in Maharashtra, India, 
 - **Frameworks & Technologies:** React, Node.js, Next.js, MERN Stack, Data Science
 - **Databases:** PostgreSQL, Prisma, Mongodb
 
-- 🌱 I’m currently learning the  depths of FullStack and dabbling with AI and DS
+ 🌱 I’m currently learning the  depths of FullStack and dabbling with AI and DS
+ 
 ## Contact Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/niranjan-dabhade-b5b7a8215/). I'm always open to interesting discussions and collaboration opportunities!
