@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hi there! I'm Niranjan Gopinath Dabhade, a student based in Maharashtra, India, currently pursuing a Bachelor's degree in Computer Science and Engineering. My expertise lies in full-stack development and machine learning. I love coding and exploring new technologies.
+Hi there! I'm Niranjan Gopinath Dabhade, a student based in Maharashtra, India, currently in third year ,pursuing a Bachelor's degree in Computer Science and Engineering. My expertise lies in full-stack development and machine learning. I love coding and exploring new technologies.
 
 ## Education
 
-- Bachelor's Degree in Computer Science and Engineering (Ongoing), [Your University/Institution], [Year]
+- Bachelor's Degree in Computer Science and Engineering (Ongoing), Maharashtra Institute of Technology.
 
 ## Skills
 
